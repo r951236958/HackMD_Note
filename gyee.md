@@ -65,3 +65,40 @@
 |  ![](https://www.thegyee.com/_s/zl181205/tx-rupor.png) | 露波 | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](http://wwws.thegyee.com/_s/main/bs.png) | 變身 | 愛的供養 | 主打歌 | 卸妝環節 | 變裝達人 | 量體裁衣 | 束體新衣 | 舞臺燈光 |
  
  
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-YanShuChi.png) | [顏書齊 / Yan Shu-Chi](https://tc.thegyee.com/person/YanShuChi.html) | ![](https://www.thegyee.com/_s/main/m.png) | 秘能流 | ![](https://www.thegyee.com/_s/main/fz.png) | 輔助 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-Lin-Hu.png) | [林虎 / Lin Hu](https://tc.thegyee.com/person/LinHu.html) | ![](https://www.thegyee.com/_s/main/d.png) | 地能流 | ![](https://www.thegyee.com/_s/main/tk.png) | 坦克 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-Likulau.png) | [李克勞 / Likulau](https://tc.thegyee.com/person/Likulau.html) | ![](https://www.thegyee.com/_s/main/s.png) | 森能流 | ![](https://www.thegyee.com/_s/main/fs.png) | 法師 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-Mike.png) | [邁克 / Mike](https://tc.thegyee.com/person/mike.html) | ![](https://www.thegyee.com/_s/main/sh.png) | 水能流 | ![](https://www.thegyee.com/_s/main/fs.png) | 法師 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-Peter.png) | [彼得 / Peter](https://tc.thegyee.com/person/peter.html) | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](https://www.thegyee.com/_s/main/tk.png) | 坦克 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-su.png) | [蘇 / Su](https://tc.thegyee.com/person/su.html) | ![](https://www.thegyee.com/_s/main/m.png) | 秘能流 | ![](https://www.thegyee.com/_s/main/fz.png) | 輔助 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-nemesio.png) | [內梅西奧 / Nemesio](https://tc.thegyee.com/person/nemesio.html) | ![](https://www.thegyee.com/_s/main/m.png) | 秘能流 | ![](https://www.thegyee.com/_s/main/yx.png) | 遊俠 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-priapus.png) | [普利亞普斯 / Priapus](https://tc.thegyee.com/person/priapus.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/fs.png) | 法師 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-ranmaru.png) | [蘭丸 / Ranmaru](https://tc.thegyee.com/person/ranmaru.html) | ![](https://www.thegyee.com/_s/main/d.png) | 地能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-hou.png) | [阿豪 / Hou](https://tc.thegyee.com/person/hou.html) | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](https://www.thegyee.com/_s/main/yx.png) | 遊俠 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-will.png) | [威爾 / Will](https://tc.thegyee.com/person/will.html) | ![](https://www.thegyee.com/_s/main/d.png) | 地能流 | ![](https://www.thegyee.com/_s/main/tk.png) | 坦克 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-vundo.png) | [雲頓 / Vundo](https://tc.thegyee.com/person/vundo.html) | ![](https://www.thegyee.com/_s/main/m.png) | 秘能流 | ![](https://www.thegyee.com/_s/main/fs.png) | 法師 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-turing.png) | [特林 / Turing](https://tc.thegyee.com/person/turing.html) | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-miles.png) | [麥爾斯 / Miles](https://tc.thegyee.com/person/miles.html) | ![](https://www.thegyee.com/_s/main/s.png) | 森能流 | ![](https://www.thegyee.com/_s/main/yx.png) | 遊俠 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-eddie.png) | [艾迪 / Eddie](https://tc.thegyee.com/person/eddie.html) | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](https://www.thegyee.com/_s/main/yx.png) | 遊俠 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-izumi.png) | [泉 / Izumi](https://tc.thegyee.com/person/izumi.html) | ![](https://www.thegyee.com/_s/main/d.png) | 地能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-yan.png) | [琰 / Yan](https://tc.thegyee.com/person/yan.html) | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](https://www.thegyee.com/_s/main/tk.png) | 坦克 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-chang.png) | [昌 / Chang](https://tc.thegyee.com/person/chang.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/fz.png) | 輔助 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-yang.png) | [揚 / Yang](https://tc.thegyee.com/person/yang.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-bernard.png) | [伯納德 / Bernard](https://tc.thegyee.com/person/bernard.html) | ![](https://www.thegyee.com/_s/main/d.png) | 地能流 | ![](https://www.thegyee.com/_s/main/tk.png) | 坦克 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-lan.png) | [嵐 / Lan](https://tc.thegyee.com/person/lan.html) | ![](https://www.thegyee.com/_s/main/m.png) | 秘能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-sig.png) | [西格 / Sig](https://tc.thegyee.com/person/sig.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/tk.png) | 坦克 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-hart.png) | [哈特 / Hart](https://tc.thegyee.com/person/hart.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-queerix.png) | [奎瑞克斯 / Queerix](https://tc.thegyee.com/person/queerix.html) | ![](https://www.thegyee.com/_s/main/s.png) | 森能流 | ![](https://www.thegyee.com/_s/main/yx.png) | 遊俠 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-osmond.png) | [奧斯蒙 / Osmond](https://tc.thegyee.com/person/osmond.html) | ![](https://www.thegyee.com/_s/main/sh.png) | 水能流 | ![](https://www.thegyee.com/_s/main/fz.png) | 輔助 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-rand.png) | [蘭德 / Rand](https://tc.thegyee.com/person/rand.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-mira.png) | [米拉 / Mira](https://tc.thegyee.com/person/mira.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-mercy.png) | [美希 / Mercy](https://tc.thegyee.com/person/mercy.html) | ![](https://www.thegyee.com/_s/main/sh.png) | 水能流 | ![](https://www.thegyee.com/_s/main/fz.png) | 輔助 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-catherine.png) | [凱瑟琳 / Catherine](https://tc.thegyee.com/person/catherine.html) | ![](https://www.thegyee.com/_s/main/h.png) | 火能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-yaen.png) | [雅恩 / Yaen](https://tc.thegyee.com/person/yaen.html) | ![](https://www.thegyee.com/_s/main/m.png) | 秘能流 | ![](http://wwws.thegyee.com/_s/main/bs.png) | 變身 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-kitty.png) | [凱弟 / Kitty](https://tc.thegyee.com/person/kitty.html) | ![](https://www.thegyee.com/_s/main/m.png) | 秘能流 | ![](https://www.thegyee.com/_s/main/fs.png) | 法師 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-musso.png) | [麻索 / Musso](https://tc.thegyee.com/person/musso.html) | ![](https://www.thegyee.com/_s/main/s.png) | 森能流 | ![](https://www.thegyee.com/_s/main/zs.png) | 戰士 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-choji.png) | [長治 / Choji](https://tc.thegyee.com/person/choji.html) | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](https://www.thegyee.com/_s/main/fz.png) | 輔助 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-billy.png) | [比利 / Billy](https://tc.thegyee.com/person/billy.html) | ![](https://www.thegyee.com/_s/main/d.png) | 地能流 | ![](https://www.thegyee.com/_s/main/tk.png) | 坦克 |
+|  ![](https://www.thegyee.com/_s/zl181205/tx-rupor.png) | [露波 / Rupor](https://tc.thegyee.com/person/rupor.html) | ![](https://www.thegyee.com/_s/main/j.png) | 金能流 | ![](http://wwws.thegyee.com/_s/main/bs.png) | 變身 |
